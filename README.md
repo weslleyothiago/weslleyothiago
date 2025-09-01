@@ -8,7 +8,7 @@ Personalize os campos marcados com <> e ajuste/retire o que não quiser usar.
 <!-- Banner de boas-vindas -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Olá%20👋%2C%20eu%20sou%20o%20weslleyothiago&fontAlign=50&fontAlignY=40&fontColor=ffffff&color=0:00C0FF,100:4218B8" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Bem-vindo%20ao%20meu%20perfil!%20👋&fontSize=42&fontAlign=50&fontAlignY=40&fontColor=ffffff&color=0:00C0FF,200:4218B8"
     alt="Bem-vindo ao perfil de weslleyothiago"
   />
 </p>
@@ -25,97 +25,101 @@ Personalize os campos marcados com <> e ajuste/retire o que não quiser usar.
 
 <!-- Redes sociais principais -->
 <div align="center">
-  <!-- Substitua os links pelos seus -->
-  <a href="<https://www.linkedin.com/in/weslleyothiago>" target="_blank">
+  <a href="https://www.linkedin.com/in/weslleyothiago" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="<mailto:seu.email@exemplo.com>" target="_blank">
+  <a href="mailto:weslleyothiago@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="<https://x.com/weslleyothiago>" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter%2FX-111?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X">
-  </a>
-  <a href="<https://www.instagram.com/weslleyothiago>" target="_blank">
+  <a href="https://www.instagram.com/weslleyothiago" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="<https://medium.com/@weslleyothiago>" target="_blank">
+  <a href="https://medium.com/@weslleyothiago" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
-  <a href="<https://leetcode.com/u/weslleyothiago>" target="_blank">
+  <a href="https://leetcode.com/u/weslleyothiago" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
-  <a href="<https://dev.to/weslleyothiago>" target="_blank">
+  <a href="https://dev.to/weslleyothiago" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
   </a>
-  <a href="<https://open.spotify.com/user/SEU_SPOTIFY_UID>" target="_blank">
+  <a href="https://open.spotify.com/user/SEU_SPOTIFY_UID" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
 </div>
-
-<!-- Sumário -->
-<details>
-  <summary><b>Sumário</b></summary>
-
-- Sobre mim
-- O que estou trabalhando
-- O que estou estudando agora
-- Livros que estou lendo
-- Tecnologias e ferramentas (stacks)
-- Projetos em destaque
-- Métricas do GitHub
-- Música (Spotify)
-- Como me achar
-</details>
 
 ---
 
 ## Sobre mim
 
-<!-- Dica: escreva 2-4 linhas de contexto sobre você -->
-- ✌️ Olá! Eu sou o <b>weslleyothiago</b>. <em><>Coloque aqui sua área/ênfase (ex.: backend, frontend, fullstack, dados)</em>.
-- 🧠 Gosto de criar soluções limpas, bem testadas e focadas em valor para o usuário.
-- 🤝 Aberto a colaborar em projetos open-source e ideias legais.
-- 🚀 Objetivos 2025: <em><>ex.: contribuir em 5 projetos OSS, publicar 2 artigos, fechar 1 side project</em>.
+<!-- Sobre mim (versão storytelling) -->
+👋 Sou o Weslley (<b>weslleyothiago</b>), desenvolvedor <b>fullstack/game design</b>.
 
-<!-- ASCII art leve -->
+Meu primeiro “console” foi um PC simples que meu pai montou com um emulador de SNES. Entre Donkey Kong, Super Mario Bros e Bomberman 4, nasciam as primeiras mecânicas na minha cabeça — reimaginava chefes e poderes (tipo um Mario com AK47 😅) sem nem saber que isso tinha nome: <b>game design</b>. Essa curiosidade ficou — e virou profissão.
 
-/_/\
-( •.• ) Sempre aprendendo, sempre construindo.
+Anos depois, a comunidade dev e um vídeo do Felipe Deschamps me levaram ao <b>CS50</b>, do David Malan. Desde então, mergulhei na programação: hoje transformo ideias em protótipos jogáveis, com código limpo, testável e orientado a valor para quem joga.
 
-    ^ <
+Hoje, meu plano é mergulhar em cibersegurança, fortalecer meu domínio de Linux e evoluir em game design — documentando o processo por aqui.
 
-text
+- 🚀 2025: evoluir meu inglês, concluir um projeto autoral e aprofundar meu conhecimento em game design.
+- 🎓 Estudante de <b>Engenharia de Computação</b> (2025–2029) — UNISATC.
+- 🗂️ <a href="https://unisatc.com.br/graduacao/engenharia-de-computacao/" target="_blank">Ver ementa do curso</a>
 
+🔗 Para tirar essas ideias do papel, estou mergulhando em:
+- 🎮 <b>Unreal Engine 5.6</b> — Blueprints/C++, Lumen/Nanite, GAS e replicação multiplayer.
+- ⚙️ <b>Metodologias ágeis</b> — Scrum/Kanban com foco em fluxo, métricas e previsibilidade.
+- 🎨 <b>UI/UX</b> — Figma, acessibilidade e microinterações para experiências intuitivas.
 
-<!-- Se for estudante, descomente e personalize:
-- 🎓 Estudante de <> (período <>), foco em <>.
--->
 
 ---
 
 ## O que estou trabalhando
 
-- 🔭 Projeto atual: <em><>Nome do projeto</em> — <>breve descrição (link opcional).
-- 🛠️ Explorando: <>ex.: microsserviços, arquiteturas event-driven, edge functions.
-- 🧪 Melhorando: <>ex.: testes E2E, observabilidade, performance.
+<!-- O que estou trabalhando -->
+- 🔭 Próximo projeto a retomar (em pausa): <a href="https://github.com/weslleyothiago/<repo-snake-game>">Snake Game em C++ com Raylib</a> — repositório será atualizado em breve.
+- 🛠️ Explorando: testes de integração/E2E e performance.
+- 🧪 Melhorando: documentação (Doxygen) e padrão de contribuição.
+
+🎯 Habilidades que vou evoluir com esse projeto
+- Mecânicas e gameplay
+  - 🎮 Controles WASD responsivos
+  - 🤖 Comida móvel (movable food) para aumentar o desafio
+  - 🔰 3 níveis com layouts diferentes + customização de níveis (feature em desenvolvimento)
+
+- Renderização e UI
+  - 🟢 Renderização, HUD e feedbacks visuais com Raylib
+
+- Arquitetura e código
+  - 🧱 Padrões OOP aplicados: Command, Game Loop
+  - 🧩 Separação de camadas: {core logic} vs {render}, integrando em {game logic} e no game loop
+
+- Qualidade, build e docs
+  - 🧪 Testes unitários com Catch2
+  - 📁 Estrutura de pastas limpa e automação de build com CMake
+  - 📄 Documentação com Doxygen
+  - 📑 Formatação de código com clang-format
+
+- Gestão e processo
+  - 📊 Kanban (GitHub Projects ou Jira)
 
 ---
 
 ## O que estou estudando agora
 
-- 📚 <em><>Tecnologia/tema 1</em> — <>motivo/objetivo curto
-- 📚 <em><>Tecnologia/tema 2</em> — <>motivo/objetivo curto
-- 📚 <em><>Tecnologia/tema 3</em> — <>motivo/objetivo curto
+ -📚 <em>Unreal Engine 5.6</em> — Aprofundando Blueprints e C++ para gameplays performáticos, Lumen/Nanite, Niagara e GAS; estudando replicação multiplayer, Enhanced Input e profiling/otimização. Objetivo: lançar um protótipo jogável e documentar um pipeline de build multiplataforma.
 
-<!-- Dica: mantenha 3-5 itens no máximo e atualize mensalmente -->
+ -📚 <em>Metodologias ágeis</em> — Praticando Scrum e Kanban com foco em fluxo e valor: boas histórias (INVEST), DoR/DoD, métricas (lead/cycle time, throughput), limites de WIP e cadência leve. Objetivo: aumentar previsibilidade e reduzir tempo de entrega em projetos pessoais/OSS.
+
+ -📚 <em>UI/UX</em> — Usabilidade, acessibilidade (WCAG), design systems e prototipação no Figma; microinterações e testes de usabilidade para validar hipóteses. Objetivo: criar interfaces intuitivas, consistentes e acessíveis com handoff claro para dev.
+
 
 ---
 
-## Livros que estou lendo
+## Minha biblioteca
 
-- 📖 <em><>Livro 1 — Autor</em>
-- 📖 <em><>Livro 2 — Autor</em>
-- 📖 <em><>Livro 3 — Autor</em>
+Livros que estou lendo
+- 📖 **Level Up! Um Guia para o Design de Grandes Jogos (PT-BR)** — Scott Rogers
+- 📖 **Programação de Computadores com C++ ANSI (ISO/IEC 14882:2011): Guia prático de orientação e desenvolvimento** — José Augusto N. G. Manzano
 
 <!-- Se usar Goodreads/Readwise, você pode automatizar esta seção com um GitHub Action -->
 
@@ -128,35 +132,37 @@ text
 
 - Linguagens
   <br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,java&perline=10" alt="langs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,cs,dotnet&perline=10" alt="langs" />
 
 - Frontend
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,next,redux,html,css,tailwind,sass,styledcomponents&perline=10" alt="frontend" />
+  <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind,sass,bootstrap&perline=10" alt="frontend" />
 
 - Backend
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,graphql,prisma&perline=10" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,express,nest,graphql,prisma,sequelize,php,yarn&perline=10" alt="backend" />
 
 - Banco de dados
   <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=10" alt="dbs" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase&perline=10" alt="dbs" />
 
-- DevOps / Cloud
+- SO
   <br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,railway&perline=10" alt="devops" />
+  <img src="https://skillicons.dev/icons?i=arch,arduino,mint,ubuntu,windows&perline=10" alt="SO" />
 
-- Testes e DX
+- Testes
   <br/>
-  <img src="https://skillicons.dev/icons?i=jest,vitest,playwright,postman,swagger&perline=10" alt="tests" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman&perline=10" alt="tests" />
 
 - Ferramentas
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,neovim,figma&perline=10" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,neovim,figma,bash,cmake,discord,notion,obsidian,powershell,visualstudio,vscode,vscodium&perline=10" alt="tools" />
+
+- Game Engines
+  <br/>
+  <img src="https://skillicons.dev/icons?i=robloxstudio,godot,gamemakerstudio,unreal&perline=10" alt="tools" />
 
 </div>
-
-<!-- Dica: remova o que não faz sentido no seu stack para manter coerência -->
 
 ---
 
@@ -164,10 +170,8 @@ text
 
 <!-- Use os cards de repositório (troque REPO_NAME pelos seus) -->
 <p align="left">
-  <!-- Descomente e substitua:
-  <a href="https://github.com/weslleyothiago/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weslleyothiago&repo=REPO_NAME&theme=tokyonight&hide_border=true" alt="REPO_NAME"/></a>
-  <a href="https://github.com/weslleyothiago/REPO_NAME2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weslleyothiago&repo=REPO_NAME2&theme=tokyonight&hide_border=true" alt="REPO_NAME2"/></a>
-  -->
+  <a href="https://github.com/weslleyothiago/frontend-tcc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weslleyothiago&repo=frontend-tcc&theme=tokyonight&hide_border=true" alt="REPO_NAME"/></a>
+  <a href="https://github.com/weslleyothiago/backend-tcc"><img src="https://github-readme-stats.vercel.app/api/pin/?username=weslleyothiago&repo=backend-tcc&theme=tokyonight&hide_border=true" alt="REPO_NAME2"/></a>
 </p>
 
 <!-- Ou simplesmente fixe os repositórios direto no seu perfil via "Customize your pins" -->
@@ -210,9 +214,9 @@ https://spotify-recently-played-readme.vercel.app/api?user=SEU_SPOTIFY_UID&uniqu
 
 ## Como me achar
 
-- 🌐 Site/Portfólio: <em><>https://seu-dominio.com</em>
-- 💼 LinkedIn: <em><>https://www.linkedin.com/in/weslleyothiago</em>
-- ✉️ Email: <em><>seu.email@exemplo.com</em>
+- 🌐 Portfólio: <em>https://weslleyothiago.itch.io/</em>
+- 💼 LinkedIn: <em>https://www.linkedin.com/in/weslleyothiago</em>
+- ✉️ Email: <em>weslleyothiago@gmail.com</em>
 - ✍️ Medium: <em><>https://medium.com/@weslleyothiago</em>
 - 🧩 LeetCode: <em><>https://leetcode.com/u/weslleyothiago</em>
 
